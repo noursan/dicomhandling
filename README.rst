@@ -1,6 +1,13 @@
 dicomhandling
 =============
 
+.. image:: https://github.com/noursan/dicomhandling/blob/master/data/input/T1_3D_TFE%20-%20301/residues/unfiltered_residue.jpg?raw=true
+  :width: 200
+  :alt: Unfiltered residue
+.. image:: https://github.com/noursan/dicomhandling/blob/master/data/input/T1_3D_TFE%20-%20301/residues/filtered_residue.jpg?raw=true
+  :width: 200
+  :alt: Filtered residue
+
 ``dicomhandling`` is a python module to showcase some basic DICOM image manipulation.
 
 Installation
